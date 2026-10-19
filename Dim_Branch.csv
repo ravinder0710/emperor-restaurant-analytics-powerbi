@@ -1,0 +1,6 @@
+BranchKey,BranchName,ShortName,Area,Manager,OpenDate,SeatingCapacity,MainHallTables,VIPRooms,SalesWeight,Region,State
+1,Emperor Cuisine Restaurant KL,KL,"Bukit Bintang, Kuala Lumpur",Tan Wei Liang,2016-03-12,420,52,5,1.3,Klang Valley,Kuala Lumpur
+2,Emperor Cuisine Restaurant Klang,Klang,"Bukit Tinggi, Klang",Lim Mei Hua,2014-08-01,480,60,4,1.1,Klang Valley,Selangor
+3,Emperor Cuisine Restaurant Subang,Subang,"SS15, Subang Jaya",Ng Chee Keong,2018-06-20,360,44,4,1.0,Klang Valley,Selangor
+4,Emperor Cuisine Restaurant Puchong,Puchong,"Bandar Puteri, Puchong",Wong Siew Ling,2019-11-05,300,38,3,0.82,Klang Valley,Selangor
+5,Emperor Cuisine Restaurant Cheras,Cheras,"Taman Connaught, Cheras",Chong Kar Wai,2021-02-18,320,40,3,0.78,Klang Valley,Kuala Lumpur

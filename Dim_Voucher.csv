@@ -1,0 +1,10 @@
+VoucherCampaignKey,CampaignCode,CampaignName,VoucherType,FaceValue,Channel,StartDate,EndDate
+0,NONE,No Voucher,None,0.0,All,2025-01-01,2025-12-31
+1,CNY2025,CNY Reunion RM50 Voucher,Cash,50.0,App,2025-01-15,2025-02-15
+2,NEWMEM,New Member RM20 Welcome,Cash,20.0,App,2025-01-01,2025-12-31
+3,BDAY30,Birthday RM30 Treat,Cash,30.0,App,2025-01-01,2025-12-31
+4,TOPUP10,Top-Up 10% Bonus Voucher,Percentage,10.0,App,2025-01-01,2025-12-31
+5,WKND15,Weekend 15% Off Dinner,Percentage,15.0,WhatsApp,2025-03-01,2025-08-31
+6,DIMSUM1,Free Dim Sum (Free Item),FreeItem,13.0,Telegram,2025-02-01,2025-11-30
+7,REACT40,Reactivation RM40 Come-Back,Cash,40.0,App,2025-06-01,2025-12-31
+8,MOON25,Mooncake Festival RM25,Cash,25.0,WhatsApp,2025-09-01,2025-10-15

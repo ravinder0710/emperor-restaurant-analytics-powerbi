@@ -1,0 +1,59 @@
+ActionKey,WeekStartDateKey,Tab,BranchKey,Category,Priority,Finding_WhatHappened,Rationale_WhyItMatters,Action_WhatToDoNext,ExpectedImpactRM,Status
+1,20250101,Branch Performance,3,Sales,High,Subang is 11% below its monthly target,Weakest branch is dragging group progress toward RM20M,Deploy weekend promo + reassign top captain to Subang,110188.0,In Progress
+2,20250101,Menu & Signature Dish,4,Mix,Low,High-margin signature underexposed at Puchong,Shifting mix to high-margin dishes lifts profit,Feature dish on table tent + staff upsell script,18412.0,Done
+3,20250101,Customer Review & Satisfaction,2,Reputation,High,Klang rating dipped below 4.0,Low ratings deter new customers,Address service speed; reply to all reviews this week,33704.0,Open
+4,20250115,Staff Performance,4,Training,Low,Upsell per cover trails peers at Puchong,Upsell is the cheapest revenue lever,Run upsell coaching for low-index captains,13831.0,Open
+5,20250115,10-Platform Overview,1,Conversion,Medium,High views but low enquiries on TikTok,Attention not converting to bookings,Add click-to-WhatsApp + clear CTA on top posts,23064.0,Open
+6,20250129,Membership,4,Retention,High,493 members inactive 90+ days at Puchong,Repeat members spend more than walk-ins,Trigger reactivation voucher via app + WhatsApp,31640.0,Open
+7,20250129,Staff Performance,1,Training,Low,Upsell per cover trails peers at KL,Upsell is the cheapest revenue lever,Run upsell coaching for low-index captains,20967.0,Done
+8,20250212,Daily Sales,1,Traffic,Medium,Weekday lunch is the weakest slot at KL,Fixed costs run regardless of covers,Launch set-lunch promo Mon-Thu 12-2pm,30629.0,In Progress
+9,20250212,VIP Room & Event,5,Utilisation,Medium,VIP room occupancy low on weekdays at Cheras,Empty high-ticket rooms are lost premium revenue,Push corporate weekday package to nearby offices,59352.0,Done
+10,20250226,Customer Review & Satisfaction,1,Reputation,High,KL rating dipped below 4.0,Low ratings deter new customers,Address service speed; reply to all reviews this week,38435.0,Done
+11,20250226,Branch Performance,1,Sales,High,KL is 20% below its monthly target,Weakest branch is dragging group progress toward RM20M,Deploy weekend promo + reassign top captain to KL,98271.0,In Progress
+12,20250312,Staff Performance,1,Training,Low,Upsell per cover trails peers at KL,Upsell is the cheapest revenue lever,Run upsell coaching for low-index captains,16349.0,Open
+13,20250312,Membership,2,Retention,High,571 members inactive 90+ days at Klang,Repeat members spend more than walk-ins,Trigger reactivation voucher via app + WhatsApp,44336.0,In Progress
+14,20250312,Menu & Signature Dish,4,Mix,Low,High-margin signature underexposed at Puchong,Shifting mix to high-margin dishes lifts profit,Feature dish on table tent + staff upsell script,23155.0,In Progress
+15,20250326,Membership,1,Retention,High,461 members inactive 90+ days at KL,Repeat members spend more than walk-ins,Trigger reactivation voucher via app + WhatsApp,42960.0,Open
+16,20250326,Customer Review & Satisfaction,4,Reputation,High,Puchong rating dipped below 4.0,Low ratings deter new customers,Address service speed; reply to all reviews this week,43474.0,In Progress
+17,20250409,Promotion,3,Margin,Medium,RM3 Dim Sum margin is below target at Subang,High volume but low profit erodes blended margin,Bundle dim sum with a drink combo to lift ticket,20817.0,Done
+18,20250409,Booking & Table Utilisation,5,No-Show,Medium,No-show rate elevated at Cheras,No-shows waste reserved capacity,Send WhatsApp confirmation 24h before + deposit,21785.0,In Progress
+19,20250423,10-Platform Overview,4,Conversion,Medium,High views but low enquiries on TikTok,Attention not converting to bookings,Add click-to-WhatsApp + clear CTA on top posts,29565.0,In Progress
+20,20250423,Booking & Table Utilisation,3,No-Show,Medium,No-show rate elevated at Subang,No-shows waste reserved capacity,Send WhatsApp confirmation 24h before + deposit,25667.0,Open
+21,20250423,Branch Performance,4,Sales,High,Puchong is 16% below its monthly target,Weakest branch is dragging group progress toward RM20M,Deploy weekend promo + reassign top captain to Puchong,81301.0,In Progress
+22,20250507,Membership,3,Retention,High,158 members inactive 90+ days at Subang,Repeat members spend more than walk-ins,Trigger reactivation voucher via app + WhatsApp,28401.0,Done
+23,20250507,Daily Sales,4,Traffic,Medium,Weekday lunch is the weakest slot at Puchong,Fixed costs run regardless of covers,Launch set-lunch promo Mon-Thu 12-2pm,33567.0,Open
+24,20250521,Menu & Signature Dish,3,Mix,Low,High-margin signature underexposed at Subang,Shifting mix to high-margin dishes lifts profit,Feature dish on table tent + staff upsell script,16698.0,Done
+25,20250521,Promotion,3,Margin,Medium,RM3 Dim Sum margin is below target at Subang,High volume but low profit erodes blended margin,Bundle dim sum with a drink combo to lift ticket,29410.0,Done
+26,20250604,Promotion,1,Margin,Medium,RM3 Dim Sum margin is below target at KL,High volume but low profit erodes blended margin,Bundle dim sum with a drink combo to lift ticket,23152.0,Open
+27,20250604,Customer Review & Satisfaction,4,Reputation,High,Puchong rating dipped below 4.0,Low ratings deter new customers,Address service speed; reply to all reviews this week,44391.0,Open
+28,20250618,Promotion,3,Margin,Medium,RM3 Dim Sum margin is below target at Subang,High volume but low profit erodes blended margin,Bundle dim sum with a drink combo to lift ticket,28295.0,In Progress
+29,20250618,Branch Performance,4,Sales,High,Puchong is 20% below its monthly target,Weakest branch is dragging group progress toward RM20M,Deploy weekend promo + reassign top captain to Puchong,74843.0,In Progress
+30,20250702,Booking & Table Utilisation,1,No-Show,Medium,No-show rate elevated at KL,No-shows waste reserved capacity,Send WhatsApp confirmation 24h before + deposit,27758.0,Open
+31,20250702,Staff Performance,5,Training,Low,Upsell per cover trails peers at Cheras,Upsell is the cheapest revenue lever,Run upsell coaching for low-index captains,19211.0,Open
+32,20250702,10-Platform Overview,5,Conversion,Medium,High views but low enquiries on TikTok,Attention not converting to bookings,Add click-to-WhatsApp + clear CTA on top posts,25993.0,Open
+33,20250716,Staff Performance,2,Training,Low,Upsell per cover trails peers at Klang,Upsell is the cheapest revenue lever,Run upsell coaching for low-index captains,13405.0,Open
+34,20250716,Booking & Table Utilisation,2,No-Show,Medium,No-show rate elevated at Klang,No-shows waste reserved capacity,Send WhatsApp confirmation 24h before + deposit,25966.0,In Progress
+35,20250730,Branch Performance,3,Sales,High,Subang is 14% below its monthly target,Weakest branch is dragging group progress toward RM20M,Deploy weekend promo + reassign top captain to Subang,103195.0,In Progress
+36,20250730,Booking & Table Utilisation,5,No-Show,Medium,No-show rate elevated at Cheras,No-shows waste reserved capacity,Send WhatsApp confirmation 24h before + deposit,20287.0,Open
+37,20250813,Customer Review & Satisfaction,2,Reputation,High,Klang rating dipped below 4.0,Low ratings deter new customers,Address service speed; reply to all reviews this week,47392.0,Done
+38,20250813,Daily Sales,1,Traffic,Medium,Weekday lunch is the weakest slot at KL,Fixed costs run regardless of covers,Launch set-lunch promo Mon-Thu 12-2pm,21671.0,In Progress
+39,20250827,Promotion,1,Margin,Medium,RM3 Dim Sum margin is below target at KL,High volume but low profit erodes blended margin,Bundle dim sum with a drink combo to lift ticket,24341.0,Open
+40,20250827,VIP Room & Event,5,Utilisation,Medium,VIP room occupancy low on weekdays at Cheras,Empty high-ticket rooms are lost premium revenue,Push corporate weekday package to nearby offices,55772.0,Open
+41,20250827,Customer Review & Satisfaction,3,Reputation,High,Subang rating dipped below 4.0,Low ratings deter new customers,Address service speed; reply to all reviews this week,32300.0,Open
+42,20250910,Staff Performance,2,Training,Low,Upsell per cover trails peers at Klang,Upsell is the cheapest revenue lever,Run upsell coaching for low-index captains,12416.0,Open
+43,20250910,Branch Performance,4,Sales,High,Puchong is 23% below its monthly target,Weakest branch is dragging group progress toward RM20M,Deploy weekend promo + reassign top captain to Puchong,110157.0,Open
+44,20250924,Branch Performance,4,Sales,High,Puchong is 23% below its monthly target,Weakest branch is dragging group progress toward RM20M,Deploy weekend promo + reassign top captain to Puchong,99860.0,In Progress
+45,20250924,VIP Room & Event,2,Utilisation,Medium,VIP room occupancy low on weekdays at Klang,Empty high-ticket rooms are lost premium revenue,Push corporate weekday package to nearby offices,80247.0,In Progress
+46,20251008,Daily Sales,3,Traffic,Medium,Weekday lunch is the weakest slot at Subang,Fixed costs run regardless of covers,Launch set-lunch promo Mon-Thu 12-2pm,38434.0,Open
+47,20251008,Customer Review & Satisfaction,4,Reputation,High,Puchong rating dipped below 4.0,Low ratings deter new customers,Address service speed; reply to all reviews this week,37763.0,Done
+48,20251022,Daily Sales,5,Traffic,Medium,Weekday lunch is the weakest slot at Cheras,Fixed costs run regardless of covers,Launch set-lunch promo Mon-Thu 12-2pm,33964.0,Done
+49,20251022,Branch Performance,4,Sales,High,Puchong is 18% below its monthly target,Weakest branch is dragging group progress toward RM20M,Deploy weekend promo + reassign top captain to Puchong,95934.0,In Progress
+50,20251105,Promotion,2,Margin,Medium,RM3 Dim Sum margin is below target at Klang,High volume but low profit erodes blended margin,Bundle dim sum with a drink combo to lift ticket,31024.0,Open
+51,20251105,Branch Performance,5,Sales,High,Cheras is 21% below its monthly target,Weakest branch is dragging group progress toward RM20M,Deploy weekend promo + reassign top captain to Cheras,99447.0,Open
+52,20251119,Customer Review & Satisfaction,4,Reputation,High,Puchong rating dipped below 4.0,Low ratings deter new customers,Address service speed; reply to all reviews this week,27413.0,Done
+53,20251119,VIP Room & Event,1,Utilisation,Medium,VIP room occupancy low on weekdays at KL,Empty high-ticket rooms are lost premium revenue,Push corporate weekday package to nearby offices,80514.0,Open
+54,20251119,Menu & Signature Dish,5,Mix,Low,High-margin signature underexposed at Cheras,Shifting mix to high-margin dishes lifts profit,Feature dish on table tent + staff upsell script,23062.0,Done
+55,20251203,Daily Sales,3,Traffic,Medium,Weekday lunch is the weakest slot at Subang,Fixed costs run regardless of covers,Launch set-lunch promo Mon-Thu 12-2pm,24617.0,Open
+56,20251203,10-Platform Overview,2,Conversion,Medium,High views but low enquiries on TikTok,Attention not converting to bookings,Add click-to-WhatsApp + clear CTA on top posts,19560.0,In Progress
+57,20251217,Booking & Table Utilisation,5,No-Show,Medium,No-show rate elevated at Cheras,No-shows waste reserved capacity,Send WhatsApp confirmation 24h before + deposit,22438.0,Done
+58,20251217,VIP Room & Event,5,Utilisation,Medium,VIP room occupancy low on weekdays at Cheras,Empty high-ticket rooms are lost premium revenue,Push corporate weekday package to nearby offices,65287.0,Open

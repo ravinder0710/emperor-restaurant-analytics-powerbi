@@ -1,0 +1,14 @@
+CampaignKey,CampaignName,UTMSource,UTMMedium,UTMCampaign,PromotionKey,StartDate,EndDate,Objective
+0,Organic / Direct,(none),organic,(direct),0,2025-01-01,2025-12-31,Always-on
+1,CNY Reunion 2025,facebook,cpc,fb_cny25,3,2025-01-10,2025-02-12,Festive bookings
+2,RM21.80 Lunch Blast,instagram,paid_social,ig_rm2180,1,2025-01-01,2025-12-31,Lunch traffic
+3,RM3 Dim Sum Hype,tiktok,paid_social,tt_dimsum,2,2025-02-01,2025-11-30,Tea-time traffic
+4,Wedding Showcase,facebook,cpc,fb_wedding,3,2025-01-01,2025-12-31,Wedding leads
+5,Birthday Booster,instagram,paid_social,ig_bday,4,2025-01-01,2025-12-31,Birthday bookings
+6,Corporate Year-End,google,cpc,gg_corp,6,2025-09-01,2025-12-31,Corporate events
+7,Mother's Day Special,facebook,cpc,fb_mday,5,2025-04-25,2025-05-12,Festive set
+8,Mid-Autumn Mooncake,xiaohongshu,paid_social,xhs_moon,8,2025-09-01,2025-10-06,Festive set
+9,App Top-Up Bonus,app,crm,app_topup,0,2025-01-01,2025-12-31,Wallet top-up
+10,Reactivation Win-Back,whatsapp,crm,wa_react,0,2025-06-01,2025-12-31,Member reactivation
+11,VIP Room Drive,whatsapp,crm,wa_vip,7,2025-01-01,2025-12-31,High-ticket rooms
+12,Signature Dish Push,tiktok,paid_social,tt_signature,9,2025-01-01,2025-12-31,Menu awareness

@@ -1,0 +1,13 @@
+PlatformKey,PlatformName,PlatformLayer,IsOwned,PaidMediaCapable
+0,Direct / Walk-In,Direct,No,No
+1,Xiaohongshu,Awareness,No,Yes
+2,Facebook,Awareness,No,Yes
+3,Instagram,Awareness,No,Yes
+4,TikTok,Awareness,No,Yes
+5,WhatsApp,Enquiry,Yes,No
+6,Website,Owned,Yes,Yes
+7,App,Owned,Yes,Yes
+8,Telegram,Awareness,Yes,No
+9,YouTube,Awareness,No,Yes
+10,Google Business Profile,Search,No,No
+11,Google Search,Search,No,Yes

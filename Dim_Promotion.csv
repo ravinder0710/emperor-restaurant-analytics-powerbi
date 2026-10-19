@@ -1,0 +1,11 @@
+PromotionKey,PromoCode,PromoName,PromoType,TargetMargin,StartDate,EndDate,IsEvent
+0,NONE,No Promotion,None,0.0,2025-01-01,2025-12-31,No
+1,P2180,RM21.80++ Value Package,Value Set,0.42,2025-01-01,2025-12-31,No
+2,DIM3,RM3 Dim Sum Promo,Dim Sum,0.3,2025-01-01,2025-12-31,No
+3,WED,Wedding Package,Event,0.55,2025-01-01,2025-12-31,Yes
+4,BDAY,Birthday Package,Event,0.5,2025-01-01,2025-12-31,Yes
+5,PARENTS,Parents Day Package,Festive,0.48,2025-05-01,2025-06-30,No
+6,CORP,Corporate Event Package,Event,0.52,2025-01-01,2025-12-31,Yes
+7,VIPMIN,VIP Room Minimum Spend,VIP,0.58,2025-01-01,2025-12-31,No
+8,FESTSET,Festive Set Menu,Festive,0.5,2025-01-01,2025-12-31,No
+9,SIGPROMO,Signature Dish Promo,Signature,0.46,2025-01-01,2025-12-31,No

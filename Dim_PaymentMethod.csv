@@ -1,0 +1,8 @@
+PaymentMethodKey,PaymentMethod,PaymentType
+1,Cash,Cash
+2,Visa / Mastercard,Card
+3,DuitNow QR,QR
+4,Touch 'n Go eWallet,eWallet
+5,GrabPay,eWallet
+6,Boost,eWallet
+7,Member Wallet,Member Wallet

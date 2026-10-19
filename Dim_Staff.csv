@@ -1,0 +1,57 @@
+StaffKey,StaffName,BranchKey,Role,HandlesSales,HireDate,Active
+0,Self-Service / App (No Staff),0,System,No,,Yes
+1,Loh Zhi Wei,1,Branch Manager,No,2023-11-24,Yes
+2,Chua Hooi Mun,1,Events Coordinator,Yes,2024-01-20,No
+3,Koh Yong Sheng,1,Captain,Yes,2021-10-06,Yes
+4,Ong Zhi Wei,1,Captain,Yes,2021-10-05,Yes
+5,Teh Li Ying,1,Captain,Yes,2024-09-10,Yes
+6,Lee Pei Shan,1,Waiter,Yes,2022-03-16,Yes
+7,Sim Li Ying,1,Waiter,Yes,2024-07-11,Yes
+8,Koh Li Ying,1,Waiter,Yes,2022-08-28,Yes
+9,Koh Zhi Wei,1,Waiter,Yes,2022-06-18,Yes
+10,Tan Wan Ting,1,Cashier,Yes,2023-12-29,Yes
+11,Foo Hooi Mun,1,Cashier,Yes,2024-09-14,Yes
+12,Wong Hooi Mun,2,Branch Manager,No,2023-09-24,Yes
+13,Goh Boon Hock,2,Events Coordinator,Yes,2024-05-05,Yes
+14,Yeoh Wan Ting,2,Captain,Yes,2022-03-22,Yes
+15,Goh Hooi Mun,2,Captain,Yes,2023-07-29,No
+16,Lee Hui Ling,2,Captain,Yes,2024-06-26,Yes
+17,Chua Pei Shan,2,Waiter,Yes,2022-01-05,Yes
+18,Lee Wan Ting,2,Waiter,Yes,2024-03-28,Yes
+19,Teh Pei Shan,2,Waiter,Yes,2024-03-08,Yes
+20,Chong Boon Hock,2,Waiter,Yes,2022-05-10,Yes
+21,Foo Hui Ling,2,Cashier,Yes,2023-06-28,Yes
+22,Lim Xin Yi,2,Cashier,Yes,2021-04-04,Yes
+23,Goh Zhi Wei,3,Branch Manager,No,2021-10-29,Yes
+24,Foo Zhi Wei,3,Events Coordinator,Yes,2022-01-05,Yes
+25,Koh Zhi Wei,3,Captain,Yes,2024-07-11,Yes
+26,Lim Jia Hao,3,Captain,Yes,2023-01-16,Yes
+27,Chua Zhi Wei,3,Captain,Yes,2021-08-26,Yes
+28,Yeoh Pei Shan,3,Waiter,Yes,2021-06-18,Yes
+29,Teh Shu Fen,3,Waiter,Yes,2022-03-23,Yes
+30,Goh Jia Hao,3,Waiter,Yes,2022-07-15,Yes
+31,Ong Hui Ling,3,Waiter,Yes,2021-11-08,No
+32,Goh Jia Hao,3,Cashier,Yes,2022-11-22,Yes
+33,Ong Jia Hao,3,Cashier,Yes,2022-03-03,Yes
+34,Lim Yong Sheng,4,Branch Manager,No,2024-03-02,Yes
+35,Foo Li Ying,4,Events Coordinator,Yes,2023-01-29,Yes
+36,Chong Zhi Wei,4,Captain,Yes,2024-10-01,Yes
+37,Goh Pei Shan,4,Captain,Yes,2022-12-31,Yes
+38,Koh Zhi Wei,4,Captain,Yes,2022-12-03,Yes
+39,Goh Wan Ting,4,Waiter,Yes,2024-03-16,Yes
+40,Yeoh Yong Sheng,4,Waiter,Yes,2023-10-15,Yes
+41,Yeoh Jun Jie,4,Waiter,Yes,2021-06-28,No
+42,Goh Xin Yi,4,Waiter,Yes,2021-08-01,Yes
+43,Yeoh Jia Hao,4,Cashier,Yes,2023-08-25,Yes
+44,Yeoh Boon Hock,4,Cashier,Yes,2022-03-10,Yes
+45,Wong Boon Hock,5,Branch Manager,No,2021-12-17,Yes
+46,Chua Xin Yi,5,Events Coordinator,Yes,2024-05-31,Yes
+47,Foo Mei Yee,5,Captain,Yes,2023-11-28,Yes
+48,Tan Jun Jie,5,Captain,Yes,2023-05-18,Yes
+49,Goh Yong Sheng,5,Captain,Yes,2021-01-15,Yes
+50,Ng Boon Hock,5,Waiter,Yes,2023-09-11,Yes
+51,Loh Zhi Wei,5,Waiter,Yes,2020-12-06,Yes
+52,Foo Jun Jie,5,Waiter,Yes,2024-08-30,Yes
+53,Foo Wan Ting,5,Waiter,Yes,2024-03-29,Yes
+54,Loh Hooi Mun,5,Cashier,Yes,2021-04-30,Yes
+55,Lim Jun Jie,5,Cashier,Yes,2022-12-27,Yes

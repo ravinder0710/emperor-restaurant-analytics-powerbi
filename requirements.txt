@@ -1,0 +1,9 @@
+# Core Analytics & Power BI Modeling Prerequisites
+# Recommended Power BI Version: Microsoft Power BI Desktop (Latest 64-bit)
+# Dimensional Modeling: Star Schema with 11 Dimensions and 12 Fact Tables
+
+# Optional Python Environment (for data validation, CSV inspection, pandas)
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+pillow>=10.0.0

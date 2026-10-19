@@ -1,0 +1,19 @@
+# ==============================================================================
+# .gitignore for Emperor Cuisine Restaurant Enterprise Power BI Analytics
+# Stack  : Power BI (.pbix), Power Query, DAX, Star Schema Modeling
+# Author : Ravinder Gupta (https://github.com/ravinder0710)
+# ==============================================================================
+
+# --- Operating System & Temporary Files ---
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+*.temp
+~$*.xlsx
+~$*.docx
+
+# --- IDE Settings ---
+.vscode/
+.idea/
+*.swp
