@@ -213,6 +213,42 @@ The suite utilizes a custom corporate palette (`Emperor_Cuisine_PowerBI_Theme.js
 
 The data model is engineered around Kimball dimensional modeling principles, linking **11 Dimension Tables** to **12 Specialized Fact Tables** with clean one-to-many relationships and single-direction filter propagation:
 
+```mermaid
+flowchart TD
+    subgraph Dimensions
+        D["Dim_Date - Marked Calendar (2025)"]
+        B["Dim_Branch - 5 Outlets (KL, Klang, Cheras, Puchong, Subang)"]
+        C["Dim_Customer - 8,001 Loyalty Accounts (Bronze to Corporate)"]
+        M["Dim_MenuItem - 320 Dishes (Seafood, Dim Sum, Drinks)"]
+        P["Dim_Platform - 10 Channels (TikTok, IG, WhatsApp, Search)"]
+    end
+
+    subgraph CoreFacts
+        FS["Fact_Sales - 45K Bills (RM20.69M Total Sales)"]
+        FO["Fact_OrderItems - 376K Item Lines (Margin & Cost)"]
+        FB["Fact_Booking - 12.6K Table Reservations"]
+        FE["Fact_PlatformEnquiry - Omnichannel Lead Generation"]
+    end
+
+    subgraph BusinessOutcomes
+        R1["Revenue Outperformance: 103.5% vs RM20M Target"]
+        R2["Member Sales Share: 60.2% (RM12.45M Loyalty)"]
+        R3["Operational Action Plan: RM799K Value Pipeline"]
+    end
+
+    D -->|"1:N"| FS
+    B -->|"1:N"| FS
+    C -->|"1:N"| FS
+    M -->|"1:N"| FO
+    FS -->|"1:N"| FO
+    B -->|"1:N"| FB
+    P -->|"1:N"| FE
+
+    FS --> R1
+    FS --> R2
+    FO --> R3
+```
+
 ![Star Schema Architecture](Star_Schema_Diagram.svg)
 
 ```text
@@ -409,8 +445,6 @@ emperor-restaurant-analytics-powerbi/
 **Ravinder Gupta**  
 *Data Analyst | Business Intelligence & Hospitality Analytics Specialist*  
 
-- 📍 **Location:** Alwar, Rajasthan, India  
+- 📍 **Location:** Gurugram (Delhi-NCR), India  
 - 📧 **Email:** [iamravindergupta17@gmail.com](mailto:iamravindergupta17@gmail.com)  
-- 💬 **WhatsApp:** [+91 9982637026](https://wa.me/919982637026?text=Hi%20Ravinder,%20saw%20your%20Emperor%20Restaurant%20portfolio)  
-- 💼 **LinkedIn:** [linkedin.com/in/ravinder-gupta-da](https://linkedin.com/in/ravinder-gupta-da)  
 - 🐙 **GitHub:** [github.com/ravinder0710](https://github.com/ravinder0710)
