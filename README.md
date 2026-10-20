@@ -376,7 +376,6 @@ Across all 24 pages, the analytical engine synthesized **5 high-leverage commerc
 ---
 
 ## 📂 Repository Structure
-
 ```text
 emperor-restaurant-analytics-powerbi/
 │
@@ -385,6 +384,7 @@ emperor-restaurant-analytics-powerbi/
 ├── Emperor_Restaurant_Power_BI_Complete_Project_Report_v4.docx # Full 32-chapter handover report
 ├── README_Data_Dictionary.md                                  # Complete schema and column catalog
 ├── Star_Schema_Diagram.svg                                    # Relational Star Schema Model Diagram
+├── data_architecture_pipeline.png                             # End-to-End Enterprise BI & Management Action Pipeline
 │
 ├── Dim_Branch.csv                                             # Dimensions: Branch locations and seats
 ├── Dim_Campaign.csv                                           # Dimensions: Marketing campaigns
